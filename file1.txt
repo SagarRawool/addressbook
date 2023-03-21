@@ -1,3 +1,6 @@
 What is a repository in Git? After you install Git, you can initialize it onto a project to create a new Git repo.
 
-A Git repository is the .git/ folder inside a project. This repository tracks all changes made to files in your project, building a history over time. Meaning, if you delete the .git/ folder, then you delete your project’s history.
+A Git repository is the .git/ folder inside a project. This repository tracks all changes made to files in your project, building a history over time. Meaning, if you delete the .git/ folder, then you delete your project’s history.This text is to add file text to check git commands.
+
+
+:
